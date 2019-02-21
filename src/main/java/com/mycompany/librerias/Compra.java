@@ -6,8 +6,8 @@
 package com.mycompany.librerias;
 
 /**
- *
- * @author JDMorrigan
+ * @author  Juan David Ojeda
+ * @author THATA
  */
 public class Compra {
     

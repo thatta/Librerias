@@ -8,8 +8,8 @@ package com.mycompany.librerias;
 import java.util.ArrayList;
 
 /**
- *
- * @author JDMorrigan
+ * @author  Juan David Ojeda
+ * @author THATA
  */
 public class Libro {
     
