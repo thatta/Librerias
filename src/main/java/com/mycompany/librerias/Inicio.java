@@ -7,7 +7,7 @@ package com.mycompany.librerias;
 
 /**
  * @author  Juan David Ojeda
- * @author THATA
+ * @author Tatiana Almansa
  */
 public class Inicio {
 
